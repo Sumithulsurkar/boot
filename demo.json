@@ -1,0 +1,22 @@
+{
+  "metadataColumns": [
+      {
+          "columnName": "Bene",
+          "displayName": {
+              "en_US": "Beneficiary code",
+              "en_AR": "Beneficiary code",
+              "pl_PL": "Beneficiary code"
+          },
+          "_id": "01"
+      },
+      {
+          "columnName": "Bene",
+          "displayName": {
+              "en_US": "Beneficiary code",
+              "en_AR": "Beneficiary code",
+              "pl_PL": "Beneficiary code"
+          },
+          "_id": "01"
+      }
+  ]
+}
